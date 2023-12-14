@@ -1,0 +1,21 @@
+html {
+	background: #0d1117;
+}
+
+h1 {
+	font-family: -apple-system, BlinkMacSystemFont, 
+               "Segoe UI", Roboto, "Helvetica Neue", Arial, 
+               sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font-size: 24px; /* or any size you prefer */
+	line-height: 1.5; /* standard line height for readability */
+	color: #FFFFFF; /* standard text color, GitHub uses a dark gray */
+}
+
+img {
+	width: 200px; 
+	height: 200px;
+	border-radius: 50%; 
+	object-fit: cover; 
+	border: 1px solid white; 
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
